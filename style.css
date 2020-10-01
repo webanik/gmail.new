@@ -1,0 +1,76 @@
+a {
+  text-decoration: none;
+}
+
+.google {
+  text-align: center;
+  font-size: 2.8rem;
+  margin-bottom: 1.5%;
+  margin-top: 1%;
+}
+.tagline {
+  text-align: center;
+  font-size: 3rem;
+  color: gray;
+  font-family: sans-serif;
+  margin-top: 0;
+  margin-bottom: 1.5%;
+}
+
+.signin {
+  text-align: center;
+  font-size: 1.4rem;
+  font-family: sans-serif;
+  color: gray;
+}
+form {
+  width: 30%;
+  margin: auto;
+  overflow: hidden;
+  background-color: #f4f4f4;
+}
+img {
+  width: 20;
+  margin: 8% auto;
+  display: block;
+
+  border-radius: 50px;
+}
+.input {
+  display: block;
+  padding: 0.8rem 1rem;
+  width: 80%;
+  margin: auto;
+}
+.btn {
+  width: 89%;
+  background-color: #4285f4;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 0.5rem 1rem;
+  margin: 3% 5%;
+}
+
+.block {
+  width: 80%;
+  margin: auto;
+  font-family: sans-serif;
+  margin-bottom: 3%;
+  overflow: hidden;
+}
+.checkbox {
+  float: left;
+}
+.help {
+  float: right;
+}
+
+.craete {
+  text-align: center;
+  font-family: sans-serif;
+}
+.every {
+  text-align: center;
+  font-family: sans-serif;
+}
